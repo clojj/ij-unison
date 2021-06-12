@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.clojj.ijunison.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.clojj.ijunison.MyBundle
 
 class MyApplicationService {
 
